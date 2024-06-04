@@ -1,6 +1,6 @@
 {
   "name": "FireSale",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/bozzobrain/LethalCompanyFireSale/releases",
   "description": "Easily teleport loot to the ship and to you at the company.",
   "dependencies": [
