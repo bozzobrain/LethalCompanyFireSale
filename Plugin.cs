@@ -11,7 +11,7 @@ namespace FireSale
 		public static FireSale instance;
 		private const string GUID = "FireSale";
 		private const string NAME = "FireSale";
-		private const string VERSION = "1.0.0";
+		private const string VERSION = "1.0.1";
 
 		public static void Log(string message)
 		{
